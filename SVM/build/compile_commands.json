@@ -1,0 +1,818 @@
+[
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe  @CMakeFiles/svm.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\svm.dir\\svm.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\svm.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/svm.cpp",
+  "output": "CMakeFiles/svm.dir/svm.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\base64\\base64_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\base64\\base64_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/base64/base64_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/base64/base64_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\bigint\\bigint_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\bigint\\bigint_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/bigint/bigint_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\bigint\\bigint_kernel_2.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\bigint\\bigint_kernel_2.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/bigint/bigint_kernel_2.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/bigint/bigint_kernel_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\bit_stream\\bit_stream_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\bit_stream\\bit_stream_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/bit_stream/bit_stream_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/bit_stream/bit_stream_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\entropy_decoder\\entropy_decoder_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\entropy_decoder\\entropy_decoder_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/entropy_decoder/entropy_decoder_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\entropy_decoder\\entropy_decoder_kernel_2.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\entropy_decoder\\entropy_decoder_kernel_2.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/entropy_decoder/entropy_decoder_kernel_2.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/entropy_decoder/entropy_decoder_kernel_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\entropy_encoder\\entropy_encoder_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\entropy_encoder\\entropy_encoder_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\entropy_encoder\\entropy_encoder_kernel_2.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\entropy_encoder\\entropy_encoder_kernel_2.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/entropy_encoder/entropy_encoder_kernel_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\md5\\md5_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\md5\\md5_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/md5/md5_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/md5/md5_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\tokenizer\\tokenizer_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\tokenizer\\tokenizer_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/tokenizer/tokenizer_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/tokenizer/tokenizer_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\unicode\\unicode.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\unicode\\unicode.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/unicode/unicode.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/unicode/unicode.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\test_for_odr_violations.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\test_for_odr_violations.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/test_for_odr_violations.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/test_for_odr_violations.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\sockets\\sockets_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\sockets\\sockets_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/sockets/sockets_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\bsp\\bsp.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\bsp\\bsp.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/bsp/bsp.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/bsp/bsp.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\dir_nav\\dir_nav_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\dir_nav\\dir_nav_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/dir_nav/dir_nav_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\dir_nav\\dir_nav_kernel_2.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\dir_nav\\dir_nav_kernel_2.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/dir_nav/dir_nav_kernel_2.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_kernel_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\dir_nav\\dir_nav_extensions.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\dir_nav\\dir_nav_extensions.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/dir_nav/dir_nav_extensions.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/dir_nav/dir_nav_extensions.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\gui_widgets\\fonts.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\gui_widgets\\fonts.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/gui_widgets/fonts.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/gui_widgets/fonts.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\linker\\linker_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\linker\\linker_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/linker/linker_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/linker/linker_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\logger\\extra_logger_headers.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\logger\\extra_logger_headers.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/logger/extra_logger_headers.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/logger/extra_logger_headers.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\logger\\logger_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\logger\\logger_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/logger/logger_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/logger/logger_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\logger\\logger_config_file.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\logger\\logger_config_file.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/logger/logger_config_file.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/logger/logger_config_file.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\misc_api\\misc_api_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\misc_api\\misc_api_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/misc_api/misc_api_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\misc_api\\misc_api_kernel_2.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\misc_api\\misc_api_kernel_2.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/misc_api/misc_api_kernel_2.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/misc_api/misc_api_kernel_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\sockets\\sockets_extensions.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\sockets\\sockets_extensions.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/sockets/sockets_extensions.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/sockets/sockets_extensions.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\sockets\\sockets_kernel_2.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\sockets\\sockets_kernel_2.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/sockets/sockets_kernel_2.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/sockets/sockets_kernel_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\sockstreambuf\\sockstreambuf.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\sockstreambuf\\sockstreambuf.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/sockstreambuf/sockstreambuf.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\sockstreambuf\\sockstreambuf_unbuffered.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\sockstreambuf\\sockstreambuf_unbuffered.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/sockstreambuf/sockstreambuf_unbuffered.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/sockstreambuf/sockstreambuf_unbuffered.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\server\\server_kernel.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\server\\server_kernel.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/server/server_kernel.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/server/server_kernel.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\server\\server_iostream.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\server\\server_iostream.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/server/server_iostream.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/server/server_iostream.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\server\\server_http.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\server\\server_http.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/server/server_http.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/server/server_http.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\threads\\multithreaded_object_extension.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\threads\\multithreaded_object_extension.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/threads/multithreaded_object_extension.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/threads/multithreaded_object_extension.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\threads\\threaded_object_extension.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\threads\\threaded_object_extension.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/threads/threaded_object_extension.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/threads/threaded_object_extension.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\threads\\threads_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\threads\\threads_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/threads/threads_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\threads\\threads_kernel_2.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\threads\\threads_kernel_2.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/threads/threads_kernel_2.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\threads\\threads_kernel_shared.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\threads\\threads_kernel_shared.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/threads/threads_kernel_shared.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/threads/threads_kernel_shared.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\threads\\thread_pool_extension.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\threads\\thread_pool_extension.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/threads/thread_pool_extension.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/threads/thread_pool_extension.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\threads\\async.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\threads\\async.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/threads/async.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/threads/async.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\timer\\timer.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\timer\\timer.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/timer/timer.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/timer/timer.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\stack_trace.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\stack_trace.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/stack_trace.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/stack_trace.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\cuda\\cpu_dlib.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\cuda\\cpu_dlib.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/cuda/cpu_dlib.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/cuda/cpu_dlib.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\cuda\\tensor_tools.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\cuda\\tensor_tools.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/cuda/tensor_tools.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/cuda/tensor_tools.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\data_io\\image_dataset_metadata.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\data_io\\image_dataset_metadata.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/data_io/image_dataset_metadata.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/data_io/image_dataset_metadata.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\data_io\\mnist.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\data_io\\mnist.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/data_io/mnist.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/data_io/mnist.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\data_io\\cifar.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\data_io\\cifar.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/data_io/cifar.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/data_io/cifar.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\global_optimization\\global_function_search.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\global_optimization\\global_function_search.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/global_optimization/global_function_search.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/global_optimization/global_function_search.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\filtering\\kalman_filter.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\filtering\\kalman_filter.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/filtering/kalman_filter.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/filtering/kalman_filter.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\svm\\auto.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\svm\\auto.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/svm/auto.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/svm/auto.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\gui_widgets\\widgets.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\gui_widgets\\widgets.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/gui_widgets/widgets.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/gui_widgets/widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\gui_widgets\\drawable.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\gui_widgets\\drawable.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/gui_widgets/drawable.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/gui_widgets/drawable.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\gui_widgets\\canvas_drawing.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\gui_widgets\\canvas_drawing.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/gui_widgets/canvas_drawing.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/gui_widgets/canvas_drawing.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\gui_widgets\\style.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\gui_widgets\\style.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/gui_widgets/style.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/gui_widgets/style.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\gui_widgets\\base_widgets.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\gui_widgets\\base_widgets.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/gui_widgets/base_widgets.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/gui_widgets/base_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\gui_core\\gui_core_kernel_1.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\gui_core\\gui_core_kernel_1.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/gui_core/gui_core_kernel_1.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_1.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\gui_core\\gui_core_kernel_2.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\gui_core\\gui_core_kernel_2.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/gui_core/gui_core_kernel_2.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/gui_core/gui_core_kernel_2.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\arm\\arm_init.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\arm\\arm_init.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/arm/arm_init.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/arm/arm_init.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\arm\\filter_neon_intrinsics.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\arm\\filter_neon_intrinsics.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/arm/filter_neon_intrinsics.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/arm/filter_neon_intrinsics.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\png.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\png.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/png.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/png.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngerror.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngerror.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngerror.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngerror.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngget.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngget.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngget.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngget.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngmem.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngmem.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngmem.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngmem.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngpread.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngpread.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngpread.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngpread.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngread.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngread.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngread.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngread.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngrio.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngrio.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngrio.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrio.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngrtran.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngrtran.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngrtran.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrtran.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngrutil.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngrutil.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngrutil.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngrutil.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngset.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngset.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngset.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngset.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngtrans.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngtrans.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngtrans.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngtrans.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngwio.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngwio.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngwio.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwio.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngwrite.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngwrite.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngwrite.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwrite.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngwtran.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngwtran.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngwtran.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwtran.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libpng\\pngwutil.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libpng\\pngwutil.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libpng/pngwutil.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libpng/pngwutil.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\adler32.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\adler32.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/adler32.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/adler32.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\compress.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\compress.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/compress.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/compress.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\crc32.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\crc32.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/crc32.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/crc32.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\deflate.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\deflate.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/deflate.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/deflate.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\gzclose.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\gzclose.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/gzclose.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/gzclose.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\gzlib.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\gzlib.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/gzlib.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/gzlib.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\gzread.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\gzread.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/gzread.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/gzread.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\gzwrite.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\gzwrite.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/gzwrite.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/gzwrite.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\infback.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\infback.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/infback.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/infback.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\inffast.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\inffast.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/inffast.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/inffast.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\inflate.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\inflate.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/inflate.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/inflate.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\inftrees.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\inftrees.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/inftrees.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/inftrees.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\trees.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\trees.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/trees.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/trees.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\uncompr.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\uncompr.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/uncompr.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/uncompr.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\zlib\\zutil.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\zlib\\zutil.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/zlib/zutil.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/zlib/zutil.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\image_loader\\png_loader.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\image_loader\\png_loader.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/image_loader/png_loader.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/image_loader/png_loader.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\image_saver\\save_png.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\image_saver\\save_png.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/image_saver/save_png.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/image_saver/save_png.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jaricom.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jaricom.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jaricom.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jaricom.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcapimin.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcapimin.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcapimin.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapimin.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcapistd.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcapistd.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcapistd.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcapistd.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcarith.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcarith.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcarith.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcarith.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jccoefct.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jccoefct.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jccoefct.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccoefct.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jccolor.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jccolor.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jccolor.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jccolor.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcdctmgr.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcdctmgr.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcdctmgr.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcdctmgr.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jchuff.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jchuff.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jchuff.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jchuff.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcinit.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcinit.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcinit.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcinit.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcmainct.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcmainct.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcmainct.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmainct.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcmarker.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcmarker.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcmarker.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmarker.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcmaster.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcmaster.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcmaster.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcmaster.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcomapi.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcomapi.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcomapi.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcomapi.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcparam.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcparam.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcparam.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcparam.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcprepct.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcprepct.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcprepct.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcprepct.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jcsample.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jcsample.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jcsample.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jcsample.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdapimin.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdapimin.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdapimin.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapimin.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdapistd.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdapistd.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdapistd.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdapistd.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdarith.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdarith.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdarith.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdarith.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdatadst.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdatadst.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdatadst.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatadst.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdatasrc.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdatasrc.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdatasrc.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdatasrc.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdcoefct.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdcoefct.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdcoefct.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcoefct.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdcolor.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdcolor.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdcolor.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdcolor.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jddctmgr.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jddctmgr.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jddctmgr.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jddctmgr.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdhuff.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdhuff.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdhuff.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdhuff.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdinput.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdinput.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdinput.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdinput.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdmainct.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdmainct.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdmainct.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmainct.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdmarker.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdmarker.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdmarker.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmarker.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdmaster.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdmaster.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdmaster.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmaster.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdmerge.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdmerge.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdmerge.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdmerge.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdpostct.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdpostct.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdpostct.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdpostct.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jdsample.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jdsample.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jdsample.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jdsample.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jerror.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jerror.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jerror.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jerror.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jfdctflt.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jfdctflt.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jfdctflt.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctflt.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jfdctfst.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jfdctfst.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jfdctfst.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctfst.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jfdctint.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jfdctint.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jfdctint.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jfdctint.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jidctflt.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jidctflt.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jidctflt.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctflt.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jidctfst.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jidctfst.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jidctfst.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctfst.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jidctint.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jidctint.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jidctint.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jidctint.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jmemmgr.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jmemmgr.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jmemmgr.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemmgr.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jmemnobs.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jmemnobs.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jmemnobs.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jmemnobs.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jquant1.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jquant1.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jquant1.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant1.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jquant2.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jquant2.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jquant2.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jquant2.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\gcc.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_C.rsp -g -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -o CMakeFiles\\dlib.dir\\external\\libjpeg\\jutils.c.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\external\\libjpeg\\jutils.c",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/external/libjpeg/jutils.c",
+  "output": "dlib_build/CMakeFiles/dlib.dir/external/libjpeg/jutils.c.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\image_loader\\jpeg_loader.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\image_loader\\jpeg_loader.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/image_loader/jpeg_loader.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/image_loader/jpeg_loader.cpp.obj"
+},
+{
+  "directory": "C:/Users/flj/Desktop/vscode/SVM/build/dlib_build",
+  "command": "C:\\Users\\flj\\Desktop\\mingw64\\bin\\g++.exe -DDLIB_JPEG_STATIC @CMakeFiles/dlib.dir/includes_CXX.rsp -g -std=gnu++11 -DDLIB_JPEG_SUPPORT -DDLIB_PNG_SUPPORT -Wreturn-type -o CMakeFiles\\dlib.dir\\image_saver\\save_jpeg.cpp.obj -c C:\\Users\\flj\\Desktop\\vscode\\SVM\\dlib-19.24\\dlib\\image_saver\\save_jpeg.cpp",
+  "file": "C:/Users/flj/Desktop/vscode/SVM/dlib-19.24/dlib/image_saver/save_jpeg.cpp",
+  "output": "dlib_build/CMakeFiles/dlib.dir/image_saver/save_jpeg.cpp.obj"
+}
+]

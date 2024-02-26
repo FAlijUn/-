@@ -1,0 +1,6 @@
+C:/Users/flj/Desktop/vscode/SVM/build/CMakeFiles/svm.dir
+C:/Users/flj/Desktop/vscode/SVM/build/CMakeFiles/edit_cache.dir
+C:/Users/flj/Desktop/vscode/SVM/build/CMakeFiles/rebuild_cache.dir
+C:/Users/flj/Desktop/vscode/SVM/build/dlib_build/CMakeFiles/dlib.dir
+C:/Users/flj/Desktop/vscode/SVM/build/dlib_build/CMakeFiles/edit_cache.dir
+C:/Users/flj/Desktop/vscode/SVM/build/dlib_build/CMakeFiles/rebuild_cache.dir
